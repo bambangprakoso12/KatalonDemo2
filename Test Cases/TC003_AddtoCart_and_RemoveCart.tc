@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC003_AddtoCart_and_RemoveCart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1829b24-f646-4dc8-b123-71694731288b</testCaseGuid>
+</TestCaseEntity>
